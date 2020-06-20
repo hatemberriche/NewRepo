@@ -16,6 +16,7 @@ namespace MY_SANTE
         public MainPage()
         {
             InitializeComponent();
+            //test
         }
     }
 }
